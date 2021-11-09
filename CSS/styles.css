@@ -1,0 +1,118 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+.demo-content {
+    padding: 0 60px;
+    background-color: #fff2e6;
+    border: #efe3d8 1px solid;
+    display: inline-block;
+}
+
+.demo-content label {
+    font-size:12px;
+}
+
+.demo-content span {
+    color: #ff7d06;
+    text-align: center;
+    font-size: 12px;
+    margin-left:10px; 
+    
+}
+.login-text {
+  font-size: x-large;
+  text-align: center;
+  font-weight: bolder;
+  color: #379805;
+  padding: 20px;
+}
+
+.demo-content form {
+    width: auto;
+    display:inline-block;
+    text-align:left;
+}
+
+.demo-content input {
+    margin: 5px 0px 10px 0px;
+    padding:10px;
+    width:250px;
+}
+
+.demo-content button {
+    margin-bottom:5px;
+}
+#response {
+    padding:15px 0px;
+}
+
+.error {
+    color: #de1414;
+}
+
+.success {
+    color: #4cde14;
+}
+
+.btn {
+    padding: 10px 20px;
+    width: 100%;
+    color: #FFF;
+    font-size: 12px;
+    background: #333;
+    border: #252525 1px solid;
+}
+
+.login {
+    background: #09f;
+    border: #09f 1px solid;
+}
+
+
+.signup {
+    background: #379805;
+    border: #379706 1px solid;
+}
+.add {
+  padding-left: 26px;
+}
+.add-button {
+  padding: 5px 20px 5px 20px;
+  background-color: #1dab2e;
+  border-radius: 21px;
+  color: white;
+  font-weight: bolder;
+}
+.add-email {
+  margin-top: 10px !important;
+  margin-bottom: 30px !important;
+}
+.add-text {
+  font-size: 30px;
+  text-align: center;
+  font-weight: bolder;
+  color: #379805;
+  padding: 35px 20px 20px 20px;
+}
+.btn-store {
+  padding: 10px 20px;
+  width: 40%;
+  margin-top: 10px !important;
+  margin-bottom: 30px !important;
+  color: #FFF;
+  font-weight: bolder;
+  font-size: 15px;
+  background: #333;
+  border: #252525 1px solid;
+}
+.store-no {
+  background: #4517fe;
+  border: #09f 1px solid;
+}
+.store-yes {
+  background: #379706;
+  border: #379706 1px solid;
+  float: right;
+}
